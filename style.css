@@ -479,8 +479,7 @@ box-shadow: 0 0 1rem var(--main-color);
     .home-img img {
         width: 70vw;
         margin-top: 4rem;
-        display:flex;
-        align-items: center;
+        margin-right: 2rem;
     }
 
     .about {
