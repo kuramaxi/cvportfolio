@@ -93,7 +93,6 @@ color: var(--main-color);
 
 .home-img img {
     width: 35vw;
-    margin-left: 100px;
     animation: floatImage 4s ease-in-out infinite;
 }
 
