@@ -524,6 +524,7 @@ box-shadow: 0 0 1rem var(--main-color);
 @media (max-width: 365px) {
     .home-img img {
         width: 90vw;
+        margin-right:150px;
     }
 
     .about-image img {
